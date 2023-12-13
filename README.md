@@ -44,9 +44,6 @@ Daria Khotunitskaya - Machine Learning Engineer
 
 
 
-
-We hope to warn users about the dangerous of visiting certain malicious websites with our application
-
 ###Contributors
 George Mendez - Data Engineering & Visualizations 
 Daria Khotunitskaya - Machine Learning Engineer
