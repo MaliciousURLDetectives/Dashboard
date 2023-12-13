@@ -17,15 +17,15 @@ In the digital age, the threat posed by malicious URLs in various forms of cyber
 - Flask
 
 ## Getting Started
-To get a local copy up and running follow these simple steps.
-Navigate to the directory where you want to clone/run/save application
-Clone this repository:
-Navigate to the git repository
-Install virtual environment
-Create a virtual environment
-Activate virtual environment
-Install dependencies(python: NumPy, Pandas, Scikit-Learn, Flask)
-Run app.py
+1. To get a local copy up and running follow these simple steps.
+2.Navigate to the directory where you want to clone/run/save application
+3.Clone this repository:
+4.Navigate to the git repository
+5.Install virtual environment
+6.Create a virtual environment
+7.Activate virtual environment
+8.Install dependencies(python: NumPy, Pandas, Scikit-Learn, Flask)
+9.Run app.py
 
 ### Prerequisites
 -  Installing Python(python --version)
