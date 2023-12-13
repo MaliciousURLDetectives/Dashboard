@@ -1,3 +1,44 @@
-# Detecting Malicious URL's
-  Our project's purpose is to detect malicious URL's and determine what kind of attack it is.
+# Detecting Malicious URLs
+
+## About The Project
+This project aims to detect and categorize malicious URLs to identify the type of cyber attack they are involved in. Using advanced techniques, "Detecting Malicious URLs" stands as a frontline defense against online threats, enhancing cybersecurity measures by providing a tool to automatically detect potential online dangers.
+
+### Problem Statement
+In the digital age, the threat posed by malicious URLs in various forms of cyber attacks is ever-increasing. Existing methods to identify and categorize these threats often fall short. This project introduces a solution to accurately detect malicious URLs and determine their attack types, leveraging sophisticated algorithms and machine learning techniques.
+
+### Key Features
+- **Automated Detection**: Rapid identification of malicious URLs.
+- **Attack Categorization**: Classifying the type of cyber attack associated with each URL.
+- **Data Analysis**: Deep analysis of URL patterns to predict and prevent future threats.
+
+## Built With
+- Python
+- Machine Learning Libraries (e.g.numpy,pandas, scikit-learn)
+- Flask
+
+## Getting Started
+To get a local copy up and running follow these simple steps.
+Navigate to the directory where you want to clone/run/save application
+Clone this repository:
+Navigate to the git repository
+Install virtual environment
+Create a virtual environment
+Activate virtual environment
+Install dependencies(python: NumPy, Pandas, Scikit-Learn, Flask)
+Run app.py
+
+### Prerequisites
+-  Installing Python(python --version)
+- Installing Scikit-Learn
+
+### Using the Application
+This app is meant to be used a Chrome extension to help you avoid malicious links as you surf the internet as I demonstrate below
+
+
+
+We hope to warn users about the dangerous of visiting certain malicious websites with our application
+
+###Contributors
+George Mendez - Data Engineering & Visualizations 
+Daria Khotunitskaya - Machine Learning Engineer
 
